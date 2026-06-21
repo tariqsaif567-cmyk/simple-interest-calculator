@@ -2,6 +2,8 @@
 
 Thank you for contributing!
 
+All contributions, bug reports, bug fixes, documentation improvements, enhancements, and ideas are welcome.
+
 ## Steps
 
 1. Fork the repository
